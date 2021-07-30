@@ -24,8 +24,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://ibb.co/KKKZrV9);
-  background-size: cover;
+  background-color: #DAF7A6;
   color: white;
   text-align: center;
 }
@@ -84,7 +83,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: #739F6B;
   position :fixed;
   top: 0;
   z-index: 10;
